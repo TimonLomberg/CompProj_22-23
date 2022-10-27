@@ -1,0 +1,12 @@
+//
+// Created by Beast GAMEING on 26.10.2022.
+//
+
+#ifndef SEMESTERPROJEKT_22_23_INPUT_H
+#define SEMESTERPROJEKT_22_23_INPUT_H
+
+
+
+
+
+#endif //SEMESTERPROJEKT_22_23_INPUT_H
